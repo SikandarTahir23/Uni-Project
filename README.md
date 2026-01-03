@@ -1,7 +1,7 @@
 # 🎬 YouTube Transcript Based AI Agent
 
 A Streamlit-powered AI application that extracts YouTube video transcripts and intelligently summarizes or analyzes the content using OpenAI GPT models.  
-This project is developed as part of the **Programming Fundamentals** course to demonstrate practical usage of APIs, functions, and structured programming concepts.
+This project is developed as part of the **Programming Fundamentals** course to demonstrate practical usage of APIs, functions and structured programming concepts.
 
 ---
 
